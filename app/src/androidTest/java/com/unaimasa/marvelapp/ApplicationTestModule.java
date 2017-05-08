@@ -17,11 +17,11 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApplicationTestModule extends ApplicationModule {
 
-    public static final String BASE_URL = "http://gateway.marvel.com";
+    private static final String BASE_URL = "http://gateway.marvel.com";
 
     private MarvelApplication mApplication;
 
-    public ApplicationTestModule(MarvelApplication application) {
+    ApplicationTestModule(MarvelApplication application) {
         super(application);
         mApplication = application;
     }

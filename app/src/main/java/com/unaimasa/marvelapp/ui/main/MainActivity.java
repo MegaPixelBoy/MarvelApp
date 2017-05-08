@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static final String ACTIVITY_TAG = MainActivity.class.getSimpleName();
 
-    private MainPresenter mMainPresenter;
+    private MainContract.Presenter mMainPresenter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

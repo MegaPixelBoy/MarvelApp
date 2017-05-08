@@ -11,7 +11,7 @@ public class DetailActivity extends AppCompatActivity {
 
     public static final String ACTIVITY_TAG = DetailActivity.class.getSimpleName();
 
-    private DetailPresenter mDetailPresenter;
+    private DetailContract.Presenter mDetailPresenter;
     private String mComicTitle;
     private String mComicDescription;
     private String mComicImageUrl;
