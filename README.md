@@ -15,7 +15,7 @@ This is simple Android MVP demo.
 ### Do you wanna know more about the developer? ###
 
 * Web page: [www.unaimasa.com](http://www.unaimasa.com/)
+* LinkedIn: [Unai Masa](https://www.linkedin.com/in/unai-masa-sanchez-2b194996/)
 * Twitter: [MegaPixelBoy](https://twitter.com/MegaPixelBoy)
 * Instagram: [MegaPixelBoy](https://www.instagram.com/megapixelboy/)
-* LinkedIn: [Unai Masa](https://www.linkedin.com/in/unai-masa-sanchez-2b194996/)
 * Youtube: [MegaPixelBoy](https://www.youtube.com/channel/UC2DMRfaLQc3PVtdRJyVS9lQ)
